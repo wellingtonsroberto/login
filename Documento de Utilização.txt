@@ -1,0 +1,11 @@
+- Importar banco de dados dentro da pasta "BD"
+
+- Instalação de banco de dados : 
+
+PHPMYADMIN  -> CRIAR BANCO DE DADOS - > NOME "user_lp" - > IMPORTAR -> PASTA "BD" - > EXECUTAR.
+
+- Configuração de Banco de dados
+
+CONFIG -> ALTERAR ARQUIVO "init"
+
+
